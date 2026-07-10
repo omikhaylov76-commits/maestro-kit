@@ -58,4 +58,4 @@ npx degit omikhaylov76-commits/maestro-kit/.claude .claude --force
 
 ## Версия
 
-KIT_VERSION 1.0.0 · MIT · см. CHANGELOG.md
+KIT_VERSION 1.1.0 · MIT · см. CHANGELOG.md
